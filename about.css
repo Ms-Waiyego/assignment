@@ -1,0 +1,13 @@
+nav {
+    color: #f7f7fa;
+    padding: 10px;
+    text-align: center;
+  }
+  li {
+    display: inline; 
+    margin-right: 20px;
+    text-align: top-left;
+  }
+body{
+  background-color: rgb(24, 246, 172);
+}
